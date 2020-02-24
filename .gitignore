@@ -1,3 +1,11 @@
+# Home directory stuff
+.bash_logout
+.bashrc
+.viminfo
+.jupyter/
+.local/
+.profile
+.ssh/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
